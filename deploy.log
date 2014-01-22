@@ -1,0 +1,181 @@
+[INFO] 2014-01-18 13:28:11,581 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 13:29:07,487 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 13:29:20,201 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 13:29:20,908 deploy-server hello world
+[INFO] 2014-01-18 13:29:21,065 deploy-server hello world
+[INFO] 2014-01-18 13:44:58,358 deploy-server hello world
+[INFO] 2014-01-18 13:44:58,470 deploy-server hello world
+[INFO] 2014-01-18 13:44:58,972 deploy-server hello world
+[INFO] 2014-01-18 13:54:31,656 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 13:56:07,076 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 14:21:59,177 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 14:23:19,057 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 14:24:39,702 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 14:25:43,887 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 14:26:25,813 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 14:27:04,067 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 14:53:07,945 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 14:53:31,677 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:01:49,839 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:04:03,801 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:04:58,209 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:05:08,250 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:05:19,318 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:05:21,245 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:24:46,682 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:32:30,901 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:33:24,869 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:33:40,636 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:33:43,548 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 15:33:43,548 deploy-server repo url None
+[INFO] 2014-01-18 15:34:22,705 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:34:26,987 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:35:12,018 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 15:35:18,614 deploy-server repo url None
+[INFO] 2014-01-18 15:35:54,511 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:35:58,872 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 15:35:58,873 deploy-server repo url https://github.com/naoko/sysadmin
+[INFO] 2014-01-18 15:36:09,233 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:36:14,218 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 15:36:14,219 deploy-server repo url https://github.com/naoko/sysadmin
+[INFO] 2014-01-18 15:37:36,718 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:38:00,697 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:38:04,853 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 15:38:04,854 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 15:38:42,506 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 15:38:42,507 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 15:38:45,077 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:43:18,749 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 15:43:32,173 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 15:43:32,173 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 15:43:37,063 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 15:43:37,063 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 15:43:40,710 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 15:43:40,711 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 16:08:35,715 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:08:35,716 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 16:39:56,544 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:40:05,735 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:40:44,540 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:40:48,530 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:40:49,267 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 16:41:53,463 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:41:58,786 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:41:59,228 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 16:43:15,110 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:43:19,044 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:43:19,453 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 16:46:27,107 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:46:41,084 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:48:30,495 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:48:35,271 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:48:35,675 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 16:51:44,671 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:51:49,334 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:51:49,749 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 16:52:20,712 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:52:25,412 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:52:26,128 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 16:53:39,201 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:53:39,618 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 16:53:41,388 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:53:42,172 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:53:47,932 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:53:48,287 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 16:53:48,287 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 16:54:33,879 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:54:39,322 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:54:40,051 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 16:54:40,051 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 16:54:40,051 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 16:57:40,515 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 16:57:50,448 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 16:57:50,866 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 16:57:50,866 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 16:57:50,867 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 18:12:23,174 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:12:23,556 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:12:23,556 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:12:23,557 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 18:13:31,000 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:13:31,729 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:13:31,729 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:13:31,729 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 18:14:39,615 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:14:40,359 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:14:40,359 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:14:40,359 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 18:17:52,788 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:17:53,177 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:17:53,178 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:17:53,178 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 18:17:54,142 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 18:17:55,914 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 18:18:00,226 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:18:00,612 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:18:00,612 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:18:00,613 fabfile deploying to ['10.1.75.110']
+[INFO] 2014-01-18 18:18:00,716 transport Connected (version 2.0, client OpenSSH_5.9p1)
+[INFO] 2014-01-18 18:18:01,035 transport Authentication (publickey) successful!
+[INFO] 2014-01-18 18:18:01,680 transport Secsh channel 1 opened.
+[INFO] 2014-01-18 18:18:01,779 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 18:19:35,514 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:19:35,921 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:19:35,921 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:19:35,921 fabfile deploying to ['10.1.75.110']
+[INFO] 2014-01-18 18:19:35,962 transport Secsh channel 2 opened.
+[INFO] 2014-01-18 18:19:36,078 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 18:23:12,405 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 18:25:37,968 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 18:25:46,123 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:25:46,123 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master, branch: None
+[INFO] 2014-01-18 18:25:46,564 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:25:46,564 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:28:27,730 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:28:27,730 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master, branch: None
+[INFO] 2014-01-18 18:28:28,128 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:28:28,128 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:39:00,785 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 18:39:06,471 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:39:06,472 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 18:39:06,891 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:39:06,891 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:39:07,234 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:39:07,234 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:39:07,236 fabfile deploying to ['10.1.75.110']
+[INFO] 2014-01-18 18:39:07,385 transport Connected (version 2.0, client OpenSSH_5.9p1)
+[INFO] 2014-01-18 18:39:07,680 transport Authentication (publickey) successful!
+[INFO] 2014-01-18 18:39:08,294 transport Secsh channel 1 opened.
+[INFO] 2014-01-18 18:40:01,917 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 18:42:59,937 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 18:43:11,745 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:43:11,745 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 18:43:12,163 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:43:12,163 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:43:12,164 fabfile deploying to ['10.1.75.110']
+[INFO] 2014-01-18 18:43:12,265 transport Connected (version 2.0, client OpenSSH_5.9p1)
+[INFO] 2014-01-18 18:43:12,574 transport Authentication (publickey) successful!
+[INFO] 2014-01-18 18:43:13,242 transport Secsh channel 1 opened.
+[INFO] 2014-01-18 18:46:56,120 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 18:47:03,205 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 18:47:03,205 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 18:47:03,624 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 18:47:03,624 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 18:47:03,626 fabfile deploying to ['10.1.75.110']
+[INFO] 2014-01-18 18:47:03,721 transport Connected (version 2.0, client OpenSSH_5.9p1)
+[INFO] 2014-01-18 18:47:04,033 transport Authentication (publickey) successful!
+[INFO] 2014-01-18 18:47:04,574 transport Secsh channel 1 opened.
+[INFO] 2014-01-18 19:29:27,118 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 19:29:45,097 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 19:29:45,097 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 19:29:45,528 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 19:29:45,528 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 19:30:00,753 deploy-server github auto deploy service v 0.1 started at port 8001
+[INFO] 2014-01-18 19:30:05,156 deploy-server received post receive hook payload from github
+[INFO] 2014-01-18 19:30:05,156 deploy-server repo url: https://github.com/naoko/sysadmin, ref: refs/heads/master
+[INFO] 2014-01-18 19:30:05,909 deploy-server request ip: 127.0.0.1
+[INFO] 2014-01-18 19:30:05,909 deploy-server github cdir: [u'192.30.252.0/22']
+[INFO] 2014-01-18 19:30:05,910 fabfile deploying sysadmin:master to ['10.1.75.110']
+[INFO] 2014-01-18 19:30:06,008 transport Connected (version 2.0, client OpenSSH_5.9p1)
+[INFO] 2014-01-18 19:30:06,308 transport Authentication (publickey) successful!
+[INFO] 2014-01-18 19:30:07,108 transport Secsh channel 1 opened.

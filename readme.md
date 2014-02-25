@@ -89,7 +89,5 @@ TODO for security:
 ---
  * Use Basic Authentication
 
-Easy CI that just works:
----
-CODESHIP
+
 

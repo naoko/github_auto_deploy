@@ -91,9 +91,5 @@ more security
 
 naoko rock! yep that's right!
 keep rocking
-dfdf  fefefe fefefe
-dfdfd fefe fefefe fefef fefe
-fdsfsdff fef
 
-fefe fefef
 

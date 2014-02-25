@@ -85,9 +85,6 @@ Security:
  * We recommend to use HTTPS for webhook
 
 
-TODO for security:
----
- * Use Basic Authentication
 
 
 
